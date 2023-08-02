@@ -9,6 +9,15 @@ Welcome to the Easy AI Voice GitHub repository! 🚀🗣️
 
 Easy AI Voice is a cutting-edge platform that brings the future of voice personalization to your fingertips. In a world of personalized content, our platform takes it a step further by allowing you to easily tailor your voice to any audio file, from podcasts to video narrations. Inspired by the concept of voice cloning and a desire to make it accessible to everyone, Easy AI Voice is designed for simplicity and usability.
 
+## The Team
+
+We are a passionate and talented group of individuals who came together to tackle the challenges of video content creation. Our diverse skills and expertise synergize to build something extraordinary.
+
+## Achievements
+
+- 🥉 3rd Place - LabLab.ai Stable Difussion 2.0 Winners 🏆
+- 🏆 Finalists - Lablab.ai AI Agents Hackathon 2.0
+
 ## Our Mission
 
 In an era where voice cloning is a rapidly growing billion-dollar industry, we recognized a significant gap in the market: many of the existing tools are too complex for the average user, with steep learning curves and technical requirements. Our mission is to democratize voice model conversion and make this innovative technology accessible to all.
@@ -34,6 +43,6 @@ To get started with Easy AI Voice, head over to our website [www.easyaivoice.com
 
 ## Contact Us
 
-We value your feedback and support. For inquiries or suggestions, please reach out to us at [contact@easyaivoice.com](mailto:contact@easyaivoice.com).
+We value your feedback and support. For inquiries or suggestions, please reach out to us at [contact@easyaistudio@gmail.com](mailto:easyaistudio@gmail.com).
 
 Join us on our journey to revolutionize the world of voice communication with Easy AI Voice! 🌐🎙️
