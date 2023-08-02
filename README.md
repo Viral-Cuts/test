@@ -43,6 +43,6 @@ To get started with Easy AI Voice, head over to our website [www.easyaivoice.com
 
 ## Contact Us
 
-We value your feedback and support. For inquiries or suggestions, please reach out to us at [contact@easyaistudio@gmail.com](mailto:easyaistudio@gmail.com).
+We value your feedback and support. For inquiries or suggestions, please reach out to us at [easyaistudio@gmail.com](mailto:easyaistudio@gmail.com).
 
 Join us on our journey to revolutionize the world of voice communication with Easy AI Voice! 🌐🎙️
