@@ -16,7 +16,7 @@ We are a passionate and talented group of individuals who came together to tackl
 ## Achievements
 
 - 🥉 3rd Place - LabLab.ai Stable Difussion 2.0 Winners 🏆
-- 🏆 Finalists - Lablab.ai AI Agents Hackathon 2.0
+- 🥈 2nd Place - Lablab.ai AI Agents Hackathon 2.0 🏆
 
 ## Our Mission
 
